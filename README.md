@@ -116,9 +116,9 @@ jupyter notebook main.ipynb
 
 \- \[Nico Guitart](https://github.com/NicoGuitart)
 
-\- \[Compañero 1] - \*(añadir nombre y GitHub)\*
+\- \[Sergi de la Cruz](https://github.com/sergidelacruz)
 
-\- \[Compañero 2] - \*(añadir nombre y GitHub)\*
+\- \[Pablo Baro Morales](https://github.com/pablomoralesbaro)
 
 
 
