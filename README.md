@@ -104,9 +104,9 @@ jupyter notebook main.ipynb
 
 \## 📊 Principales Conclusiones
 
+El análisis exploratorio realizado demuestra que el medallero olímpico no puede interpretarse únicamente como un reflejo del rendimiento deportivo, sino como el resultado de una compleja interacción entre factores históricos, geopolíticos, económicos y estratégicos. A lo largo del estudio se ha evidenciado que la evolución de los Juegos Olímpicos está profundamente condicionada por el contexto en el que se celebran, y que los grandes acontecimientos del siglo XX y XXI dejan una huella clara en la participación y en la distribución de las medallas.
 
 
-\[Las conclusiones se añadirán una vez completado el análisis por todo el equipo]
 
 
 
